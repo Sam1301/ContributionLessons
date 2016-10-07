@@ -10,4 +10,6 @@ JUST DON'T QUIT.
 But you gotta become an awesome student to ask for help. Search your problem as much as you can. When you are CONVINCED, that the solution to your problem requires a knowlegde of the history of the project or something that you haven't seen anywhere EVER, then ASK :)
 Ofcourse, don't spend days to do just that :)
 
+4) Try to exceed expectations, because its fun to do so :D
+
 Lastly, take all this with a grain of salt. These lessons help me, maybe they won't work for you.
