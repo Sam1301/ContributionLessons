@@ -13,7 +13,7 @@ Sometimes it can be hard to judge exactly when to ask. For that here's an awesom
 4) Use git
 Recently, I switched from Android Studio GUI git, to terminal git. Its gives you much power!!!
 
-4) Try to exceed expectations, because its fun to do so :D
+5) Try to exceed expectations, because its fun to do so :D
 
 Lastly, take all this with a grain of salt. These lessons help me, maybe they won't work for you.
 
