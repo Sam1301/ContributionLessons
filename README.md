@@ -13,7 +13,16 @@ Sometimes it can be hard to judge exactly when to ask. For that here's an awesom
 4) Use git
 Recently, I switched from Android Studio GUI git, to terminal git. Its gives you much power!!!
 
-5) Try to exceed expectations, because its fun to do so :D
+5) Explain your approach to solve a particular problem. 
+That really shows how you think.
+
+6) Solve bugs
+I think solving bugs is really a nice way to acquaint yourself with the codebase.
+
+7) Never be afraid to express your own ideas
+Sometimes, you really feel passionate about implementing your own new feature. You are willing to go to lengths for it.
+
+8) Try to exceed expectations, because its fun to do so :D
 
 Lastly, take all this with a grain of salt. These lessons help me, maybe they won't work for you.
 
