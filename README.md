@@ -1,4 +1,4 @@
-# Contribution Lessons
+# Things I learnt from Open Source contribution
 The following is a comprehensive list of lessons I am learning through Open source contribution.
 
 1) Always try to have a positive cheerful mindset, and help people as much as possible. This removes any feeling of bad competition that you might have.
