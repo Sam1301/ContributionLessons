@@ -1,5 +1,5 @@
 # Things I learnt from Open Source contribution
-The following is a comprehensive list of lessons I am learning through Open source contribution.
+Recently I started contributing to Zulip Android App. The following is a list of things I am learning everyday as being part of the community.
 
 1) Always try to have a positive cheerful mindset, and help people as much as possible. This removes any feeling of bad competition that you might have.
 
