@@ -3,9 +3,9 @@ Recently I started contributing to Zulip Android App. The following is a list of
 
 1) Always try to have a positive cheerful mindset, and help people as much as possible. This removes any feeling of bad competition that you might have.
 
-2) No matter how difficult it is to solve an error, the solution to your proplem exists :)
+2) No matter how difficult it is to solve a bug/work on an enhancement , the solution to your problem exists :)
 
-JUST DON'T QUIT.(solution is google :P)
+With the knowledge of innternet at your tips, you can literally learn anything.
 
 3) Mentors are AWESOME, they are always there to help you :)
 
