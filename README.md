@@ -34,7 +34,7 @@ Sometimes, you really feel passionate about implementing your own new feature. Y
 
 ### Advanced Tips
 
-1) Use the project git history to look at how others solved a similr problem.
+1) Use the project git history to look at how others solved a similar problem.
 
 
 And the most important, try to find something which you LIKE.
