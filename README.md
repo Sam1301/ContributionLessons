@@ -5,7 +5,7 @@ Recently I started contributing to Zulip Android App. The following is a list of
 
 2) No matter how difficult it is to solve a bug/work on an enhancement , the solution to your problem exists :)
 
-With the knowledge of innternet at your tips, you can literally learn anything.
+With the knowledge of internet at your tips, you can literally learn anything.
 
 3) Mentors are AWESOME, they are always there to help you :)
 
