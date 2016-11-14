@@ -14,7 +14,7 @@ Sometimes it can be hard to judge exactly when to ask. For that here's an awesom
 
 4) Use git
 
-Recently, I switched from Android Studio GUI git, to terminal git. Its gives you much power!!!
+Recently, I switched from Android Studio GUI git, to terminal git. Its gives you much more power!!!
 
 5) Explain your approach to solve a particular problem. 
 
@@ -35,6 +35,8 @@ Sometimes, you really feel passionate about implementing your own new feature. Y
 ### Advanced Tips
 
 1) Use the project git history to look at how others solved a similar problem.
+
+2) Before getting started on feature, explain your approach to the mentors.
 
 
 And the most important, try to find something which you LIKE.
