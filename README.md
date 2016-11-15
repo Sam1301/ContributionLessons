@@ -32,6 +32,9 @@ Sometimes, you really feel passionate about implementing your own new feature. Y
 
 9) It won't feel hard work if you really like what you are doing
 
+10) Have patience
+Don't get too excited. Take a deep breath and then start coding.
+
 ### Advanced Tips
 
 1) Use the project git history to look at how others solved a similar problem.
