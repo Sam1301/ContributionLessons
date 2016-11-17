@@ -5,6 +5,7 @@
 2) Obtain full sized picture
 
 3) Make photosendActivity
+
 delete, edit, send button
 
 4) Make photoeditActivity
