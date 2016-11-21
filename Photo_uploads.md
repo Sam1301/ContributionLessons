@@ -6,8 +6,10 @@
 
 3) Make photosendActivity
 
-delete, edit, send button
+delete, edit, crop, and send button
+For crop, use the cropImageView of android crop library
 
 4) Make photoeditActivity
+Read about customView and make a marker tool.
 
 5) Final upload edited/unedited image
