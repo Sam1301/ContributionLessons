@@ -10,6 +10,10 @@ delete, edit, crop, and send button
 For crop, use the cropImageView of android crop library
 
 4) Make photoeditActivity
-Read about customView and make a marker tool.
+
+undo and marker button
+Read about customView and drawing on canvas to make a marker tool.
+Follow drawing app tutorials.
+Add different colors to marker.
 
 5) Final upload edited/unedited image
