@@ -9,3 +9,5 @@
 4) work around HttpLoggingInterceptor calling writeTo() in custom RequestBody before real upload
 
 5) Enable/disable menu options at runtime
+
+6) extend this to multiple attachments
