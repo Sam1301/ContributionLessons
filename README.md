@@ -41,7 +41,10 @@ Don't get too excited. Take a deep breath and then start coding.
 
 2) Before getting started on feature, explain your approach to the mentors.
 
+3) I am starting to realize getting errors during your development/review is good.
+Catching an error early is much better than releasing your build with it!
+
 
 And the most important, try to find something which you LIKE.
 
-Keep Experimenting ;)
+Keep hustling ;)
