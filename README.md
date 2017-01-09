@@ -44,6 +44,9 @@ Don't get too excited. Take a deep breath and then start coding.
 3) I am starting to realize getting errors during your development/review is good.
 Catching an error early is much better than releasing your build with it!
 
+4) I am beginning to realize reading OFFICIAL documentation is essential.
+
+This is something I feel which seperates the average developers from great ones.
 
 And the most important, try to find something which you LIKE.
 
