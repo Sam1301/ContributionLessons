@@ -48,6 +48,4 @@ Catching an error early is much better than releasing your build with it!
 
 This is something I feel which seperates the average developers from great ones.
 
-And the most important, try to find something which you LIKE.
-
-Keep hustling ;)
+5) [git bisect](https://git-scm.com/docs/git-bisect)
