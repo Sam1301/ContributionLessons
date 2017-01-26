@@ -49,3 +49,5 @@ Catching an error early is much better than releasing your build with it!
 This is something I feel which seperates the average developers from great ones.
 
 5) [git bisect](https://git-scm.com/docs/git-bisect)
+
+6) This advice is specific to contributing to zulip. In case of doubts regarding the implementation of a feature, see how its handled in the client app. The zulip/zulip code is pretty fascinating and for me the best example of "well-designed" code. I realize now one of the ways to improve as a developer is to read other peoples codes.
